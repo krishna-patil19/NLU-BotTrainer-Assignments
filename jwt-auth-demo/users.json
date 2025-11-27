@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1763725044892,
+    "name": "Atharva",
+    "email": "test@test.com",
+    "password": "$2b$10$/3anGEo5gKnJB/zzRWGxI.Mb2sgd1FYtOuaV2z1gH2xFa44tLfccO"
+  },
+  {
+    "id": 1764012470658,
+    "name": "Krishna",
+    "email": "krishna@test.com",
+    "password": "$2b$10$5dNr0nUqNuYRf4O6dD8qTej0Tk5DXGkq4ESQVjzuNqniRtgtBeTDa"
+  }
+]
